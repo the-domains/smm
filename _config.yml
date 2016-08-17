@@ -1,14 +1,14 @@
 name: Smm
-layout_spectrum: 0.6438032886944711
-typography_spectrum: 0.9373384318314493
+layout_spectrum: 0.8263964841607958
+typography_spectrum: 0.7989094802178442
 color:
+  brandStrength: 0.4740273922216147
+  lightness: 0.6972974876407534
+  saturation: 0.3798569170758128
+  rhythmicContrast: 0.9287201853003353
   brandColors:
     - '#16193B'
     - '#35478C'
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
-  brandStrength: 0.2758444838691503
-  lightness: 0.5292156152427197
-  saturation: 0.6478462005034089
-  rhythmicContrast: 0.7441975879482925
