@@ -12,4 +12,8 @@ color:
     - '#ADD5F7'
 layout_spectrum: 0.6438032886944711
 name: Smm
+navigation:
+  - name: Visit Google
+    url: Google.com
+    type: external
 title: 'Social Media Monster '
